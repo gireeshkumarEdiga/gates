@@ -1,0 +1,269 @@
+body
+{
+	
+	
+	margin:0px;
+	height : 100%;
+	width : 100%;
+	background:linear-gradient(to bottom right,#70b8b8 50%, #E7E6E1 50%);
+}
+#ih
+{
+	padding:10px;
+	padding-left:20px;
+}
+#gsi
+{
+	font-size:32px;
+	font-weight:bold;
+	padding-left:310px;
+}
+
+#nav
+{
+	height: 60px;
+	width : 90%;
+	background-color:white;
+	margin-left : 60px;
+	margin-top : 20x;
+	border-radius:10px;
+	text-align:c
+	
+}
+h1
+{
+	padding-top:10px;
+}
+.input
+{
+	height : 40px;
+	width : 200px;
+	background-color:white;
+	border: 0px;
+	border-radius:0px 50px 50px 0px;
+	outline:0px;
+	font-weight:bold;
+	margin-top:30px;
+	
+}
+#one
+{
+	margin-left:0px;
+	
+	height : 40px;
+	width : 180px;
+	
+}
+#two
+{
+	margin-left:0px;
+
+	height : 40px;
+	width : 130px;
+}
+#three
+{
+	margin-left:0px;
+	height : 40px;
+	width : 150px;
+}
+#four
+{
+	margin-left:0px;
+	height : 40px;
+	width : 125px;
+}
+#five
+{
+	margin-left:0px;
+	height : 40px;
+	width : 80px;
+    padding-left:0px;
+}
+#six
+{
+	margin-left:0px;
+	height : 40px;
+	width : 100px;
+	padding-left:0px;
+}
+#body
+{
+	margin-left:310px;
+	margin-top: 45px;
+
+}
+/*--------------------------------css icons--------------------------------------- */
+#i1
+{
+	height : 20px;
+	width : 15px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:18px;
+	padding-right:12px;
+	margin-top:30px;
+}
+	
+
+#div1
+{
+  display:flex;
+
+}
+#i2
+{
+	height : 20px;
+	width : 10px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:20px;
+	padding-right:8px;
+	margin-top:30px;
+}
+#div2
+{
+  display:flex;
+ 
+
+}
+#i3
+{
+	height : 20px;
+	width : 10px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:20px;
+	padding-right:4px;
+	margin-top:30px;
+}
+#div3
+{
+  display:flex;
+}
+#i4
+{
+	height : 20px;
+	width : 10px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:20px;
+	padding-right:2px;
+	margin-top:30px;
+}
+#div4
+{
+  display:flex;
+  margin-left:50px;
+
+}
+#i5
+{
+	height : 20px;
+	width : 0px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:20px;
+	padding-right:14px;
+	margin-top:30px;
+}
+
+#div5
+{
+ display:flex;
+ margin-left:60px;
+}
+#i6
+{
+	height : 20px;
+	width : 10px;
+	padding :10px;
+	background-color:white;
+    border-radius:50px 0px 0px 50px;
+	padding-left:20px;
+	padding-right:14px;
+	margin-top:30px;
+}
+#div6
+{
+  display:flex;
+
+}
+
+
+/*--------------------------------study--------------------------------------- */
+
+.body1
+{
+	height:180px;
+	width:250px;
+	border: black solid 0px;
+	border-radius:20px;
+	box-shadow: 5px 5px 10px black;
+	margin-left:70px;
+	margin-top:60px;
+	backgroundlinear-gradient(to bottom right,#70b8b8 50%, #EEEEEE 50%);
+	float:left;
+
+}
+.img
+{
+	margin:20px;
+}
+.btn
+{
+	height : 30px;
+	width : 100px;
+	background-color:white;
+	border: 0px;
+	border-radius:50px 50px 50px 50px;
+	outline:0px;
+	font-weight:bold;
+	margin-top:0px;
+	
+}
+
+/*--------------------------------study--------------------------------------- */
+#ce
+{
+	height:400px;
+	width:500px;
+	border: black solid 0px;
+	border-radius:40px;
+	box-shadow: 5px 5px 10px black;
+	margin-left:400px;
+	margin-top:70px;
+}
+#branch
+{
+	text-align:center;
+	color:#142F43;
+}
+.cesem
+{
+	border-radius:20px;
+	border:0px;
+	height:30px;
+	width:150px;
+	font-weight:bold;
+	background-color:white;
+}
+.ceh
+{
+	padding-top:20px;
+}
+.a
+{
+	padding-left:50px;
+	padding-top:30px;
+}
+.b
+{
+	padding-left:90px;
+	padding-top:30px;
+}
